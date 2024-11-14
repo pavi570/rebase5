@@ -1,3 +1,3 @@
 # rebase5 in remote
-changes in the remote repository(second line)
+changes in the remote repository add second line
 
